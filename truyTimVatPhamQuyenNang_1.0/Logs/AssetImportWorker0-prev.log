@@ -1,0 +1,521 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.28f1 (f5400f52e03f) revision 16072719'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19042) 64bit Professional' Language: 'en' Physical Memory: 8097 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.28f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Code/GitHub/truyTimVatPhamQuyenNang/truyTimVatPhamQuyenNang_1.0
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+61524
+Successfully changed project path to: D:/Code/GitHub/truyTimVatPhamQuyenNang/truyTimVatPhamQuyenNang_1.0
+D:/Code/GitHub/truyTimVatPhamQuyenNang/truyTimVatPhamQuyenNang_1.0
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 122.91 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.28f1 (f5400f52e03f)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.28f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Code/GitHub/truyTimVatPhamQuyenNang/truyTimVatPhamQuyenNang_1.0/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics Family (ID=0xa16)
+    Vendor:   
+    VRAM:     2048 MB
+    Driver:   20.19.15.5058
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.28f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.28f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.28f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56044
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.28f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.28f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003209 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 90.46 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.193 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1193ms)
+		BeginReloadAssembly (136ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (916ms)
+			LoadAssemblies (133ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (304ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (85ms)
+			SetupLoadedEditorAssemblies (338ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (9ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (91ms)
+				BeforeProcessingInitializeOnLoad (15ms)
+				ProcessInitializeOnLoadAttributes (163ms)
+				ProcessInitializeOnLoadMethodAttributes (59ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.010743 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 90.48 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.378 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2380ms)
+		BeginReloadAssembly (299ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (11ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (32ms)
+		EndReloadAssembly (1964ms)
+			LoadAssemblies (217ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (615ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (105ms)
+			SetupLoadedEditorAssemblies (778ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (12ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (91ms)
+				BeforeProcessingInitializeOnLoad (143ms)
+				ProcessInitializeOnLoadAttributes (484ms)
+				ProcessInitializeOnLoadMethodAttributes (39ms)
+				AfterProcessingInitializeOnLoad (9ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (14ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.16 seconds
+Refreshing native plugins compatible for Editor in 3.52 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2196 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.0 MB.
+System memory in use after: 95.9 MB.
+
+Unloading 34 unused Assets to reduce memory usage. Loaded Objects now: 2625.
+Total: 6.651600 ms (FindLiveObjects: 0.284800 ms CreateObjectMapping: 0.245200 ms MarkObjects: 5.300900 ms  DeleteObjects: 0.813100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Scenes/StartMenu.unity
+  artifactKey: Guid(40c66164e818b9646bf9600a6c61ddde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/StartMenu.unity using Guid(40c66164e818b9646bf9600a6c61ddde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c36b43cf8c8027a511722fa1bccfe87') in 0.037905 seconds 
+  Import took 0.045642 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 192.336934 seconds.
+  path: Assets/Font/000 10 Cent Comics [TeddyBear].ttf
+  artifactKey: Guid(c21e4c59ae151084786802e692793f6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Font/000 10 Cent Comics [TeddyBear].ttf using Guid(c21e4c59ae151084786802e692793f6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9923b00c6189076719733ab39b701690') in 0.240771 seconds 
+  Import took 0.250286 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Assets/Font/000 BeatDownBB [TeddyBear].ttf
+  artifactKey: Guid(2468c2dd968c18c469ef4c4c175c612a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Font/000 BeatDownBB [TeddyBear].ttf using Guid(2468c2dd968c18c469ef4c4c175c612a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '339e47014bb141790c474026e61eef40') in 0.028104 seconds 
+  Import took 0.034139 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000418 seconds.
+  path: Assets/Font/000 AstroCity [TeddyBear].ttf
+  artifactKey: Guid(d769da5eed568894888c747d34f0fa7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Font/000 AstroCity [TeddyBear].ttf using Guid(d769da5eed568894888c747d34f0fa7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bad4e5ce2941197a33c553f76f8b4dcc') in 0.074426 seconds 
+  Import took 0.088482 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000459 seconds.
+  path: Assets/Font/000 Akbar [TeddyBear].ttf
+  artifactKey: Guid(41f88f4d056421e4db595ac6e04b9afb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Font/000 Akbar [TeddyBear].ttf using Guid(41f88f4d056421e4db595ac6e04b9afb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e43698126c6b3015ca71293cfc50246a') in 0.054382 seconds 
+  Import took 0.065929 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/Font/000 AlterEgo BB TB.ttf
+  artifactKey: Guid(eaf1765f8612dcb4b88f23d150d863ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Font/000 AlterEgo BB TB.ttf using Guid(eaf1765f8612dcb4b88f23d150d863ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2af7f39f189ea56df11027f5798585d9') in 0.048809 seconds 
+  Import took 0.058064 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000550 seconds.
+  path: Assets/Font/000 Augie [TeddyBear].ttf
+  artifactKey: Guid(170118f31a5b04442afe5efa49684361) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Font/000 Augie [TeddyBear].ttf using Guid(170118f31a5b04442afe5efa49684361) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '022a15a16ce33b6008f0225d8ca604b9') in 0.045584 seconds 
+  Import took 0.056844 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.898742 seconds.
+  path: Assets/Font/000 Blambot Casual [TeddyBear].ttf
+  artifactKey: Guid(5cec62a517bbdae4381cece7364db4bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Font/000 Blambot Casual [TeddyBear].ttf using Guid(5cec62a517bbdae4381cece7364db4bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b84df7631637001dc35b22a51a0bd4fe') in 0.080412 seconds 
+  Import took 0.091127 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000845 seconds.
+  path: Assets/Font/000 CCMonologous [TeddyBear].ttf
+  artifactKey: Guid(0273fbcb3a8f59e4e913d03804f6bc38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Font/000 CCMonologous [TeddyBear].ttf using Guid(0273fbcb3a8f59e4e913d03804f6bc38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44fd5a6d8a7ff56cea9cbefb55e33509') in 0.049769 seconds 
+  Import took 0.060543 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000094 seconds.
+  path: Assets/Font/000 CCBattleCry [TeddyBear].ttf
+  artifactKey: Guid(32a94079769943743a2f87b0c14c93cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Font/000 CCBattleCry [TeddyBear].ttf using Guid(32a94079769943743a2f87b0c14c93cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90af7a2714ba18ce7dc54bc0b862ef20') in 0.044453 seconds 
+  Import took 0.056197 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000774 seconds.
+  path: Assets/Font/000 Blambot Pro Lite TB.ttf
+  artifactKey: Guid(20f72f45ac3536043bfa26ea1ebe4d11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Font/000 Blambot Pro Lite TB.ttf using Guid(20f72f45ac3536043bfa26ea1ebe4d11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd89c420a9e5351bda9338a4e57cecbaf') in 0.045061 seconds 
+  Import took 0.052867 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/Font/000 CCMonologous Italic [TeddyBear].ttf
+  artifactKey: Guid(fe8c77d901991df43809c4e360e48aba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Font/000 CCMonologous Italic [TeddyBear].ttf using Guid(fe8c77d901991df43809c4e360e48aba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61c47ca195dc3c5abfe54485aedd8a65') in 0.044356 seconds 
+  Import took 0.053187 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/Font/000 BoogersBB [TeddyBear].ttf
+  artifactKey: Guid(6a88a7332a5c36f4ba915c80ee022004) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Font/000 BoogersBB [TeddyBear].ttf using Guid(6a88a7332a5c36f4ba915c80ee022004) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f113a916e5e771ab67a43f72ee300e83') in 0.046190 seconds 
+  Import took 0.057908 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001267 seconds.
+  path: Assets/Font/000 CCAdamKubert [TeddyBear].ttf
+  artifactKey: Guid(7db7093d5bf05b74a8aee462c68bfb4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Font/000 CCAdamKubert [TeddyBear].ttf using Guid(7db7093d5bf05b74a8aee462c68bfb4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '048834e19e1b24423452af2d62a6d706') in 0.042585 seconds 
+  Import took 0.056397 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000368 seconds.
+  path: Assets/Font/000 Chinacat [TeddyBear].ttf
+  artifactKey: Guid(bae7d0c65c6c74d4299f11ae95d9ebd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Font/000 Chinacat [TeddyBear].ttf using Guid(bae7d0c65c6c74d4299f11ae95d9ebd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7521b56e143f5864ccb0320530f2c2da') in 0.042915 seconds 
+  Import took 0.050285 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000371 seconds.
+  path: Assets/Font/000 CCGabrielBautistaLito TB.ttf
+  artifactKey: Guid(d153214c186893f44af328435a253cee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Font/000 CCGabrielBautistaLito TB.ttf using Guid(d153214c186893f44af328435a253cee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68e525fe737796db170142ec6fce5139') in 0.036173 seconds 
+  Import took 0.049261 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001671 seconds.
+  path: Assets/Font/000 ChitChat TB.ttf
+  artifactKey: Guid(594bffd0af16c0247b02b4a5b85545d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Font/000 ChitChat TB.ttf using Guid(594bffd0af16c0247b02b4a5b85545d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbb511ddcc02d37149466e1f6f885f00') in 0.043238 seconds 
+  Import took 0.057333 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.197901 seconds.
+  path: Assets/Font/000 Clairvoyant BB [TeddyBear].ttf
+  artifactKey: Guid(a1529a512ae7f434c85816cf2a1d6360) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Font/000 Clairvoyant BB [TeddyBear].ttf using Guid(a1529a512ae7f434c85816cf2a1d6360) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46b2558442f510bec207baa5186dca47') in 0.050543 seconds 
+  Import took 0.062052 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000397 seconds.
+  path: Assets/Font/000 Collector Comic [TeddyBear].ttf
+  artifactKey: Guid(6d7a5949915deca42953ac6014570e58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Font/000 Collector Comic [TeddyBear].ttf using Guid(6d7a5949915deca42953ac6014570e58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f725c60c87092c9eef6e45569553d41d') in 0.050054 seconds 
+  Import took 0.060019 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000341 seconds.
+  path: Assets/Font/000 comic crazy [TeddyBear].ttf
+  artifactKey: Guid(92a7ea82a568f16468ee0420e60dae62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Font/000 comic crazy [TeddyBear].ttf using Guid(92a7ea82a568f16468ee0420e60dae62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4154a47e4b69d84eb3e6f8974e1b0590') in 0.043274 seconds 
+  Import took 0.055040 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000399 seconds.
+  path: Assets/Font/000 DanPanosian TB Bold.ttf
+  artifactKey: Guid(f7a93f06bd9ac414dbcc08fc00b7a5ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Font/000 DanPanosian TB Bold.ttf using Guid(f7a93f06bd9ac414dbcc08fc00b7a5ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fc2c8545bbe33e931e62d8982f46f43') in 0.041822 seconds 
+  Import took 0.050170 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000399 seconds.
+  path: Assets/Font/000 Comic Sans TB.otf
+  artifactKey: Guid(b355c544877d6f54696fde700f2eedb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Font/000 Comic Sans TB.otf using Guid(b355c544877d6f54696fde700f2eedb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '875c36fb1b630d70d164015f12f31074') in 0.064994 seconds 
+  Import took 0.093888 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 40.604210 seconds.
+  path: Assets/Font/animeace2_reg.ttf
+  artifactKey: Guid(8106cae4db7c9004cbeea4f63f3574af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Font/animeace2_reg.ttf using Guid(8106cae4db7c9004cbeea4f63f3574af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b555f8a5447a75cd1313d71d6121d656') in 0.036340 seconds 
+  Import took 0.045148 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/Font/AstounderSquaredBB.otf
+  artifactKey: Guid(9d3e49f48affbb544869b17b88aba50a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Font/AstounderSquaredBB.otf using Guid(9d3e49f48affbb544869b17b88aba50a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9be530c103432e7ca5b00c5576d2e77') in 0.065067 seconds 
+  Import took 0.073745 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/Font/CCSamaritan.otf
+  artifactKey: Guid(ed728731798852b4f8ce48bcb4db852e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Font/CCSamaritan.otf using Guid(ed728731798852b4f8ce48bcb4db852e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2ea1c3dd3eab3f7b674132056cc1a11') in 0.053099 seconds 
+  Import took 0.060760 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000361 seconds.
+  path: Assets/Font/CCPascualFerry-Regular.otf
+  artifactKey: Guid(5c35c978c96b8684d9dd69f09e0176ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Font/CCPascualFerry-Regular.otf using Guid(5c35c978c96b8684d9dd69f09e0176ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e62a7bef34bea1b9b71522eceff3caa') in 0.031468 seconds 
+  Import took 0.048183 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000357 seconds.
+  path: Assets/Font/Orange Fizz.ttf
+  artifactKey: Guid(4b836402b60363140a05f0019cd92e12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Font/Orange Fizz.ttf using Guid(4b836402b60363140a05f0019cd92e12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a685131441ea36345abadec02b02bad') in 0.034153 seconds 
+  Import took 0.045858 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000369 seconds.
+  path: Assets/Font/digistrip.otf
+  artifactKey: Guid(f4497471466f8af47a8c9ee093f7cf94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Font/digistrip.otf using Guid(f4497471466f8af47a8c9ee093f7cf94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da847e5dcb593375603eda055082e6b4') in 0.052892 seconds 
+  Import took 0.061225 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000356 seconds.
+  path: Assets/Font/CCMeanwhile-Regular.ttf
+  artifactKey: Guid(920dcd0986e5888409dd23484086aa06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Font/CCMeanwhile-Regular.ttf using Guid(920dcd0986e5888409dd23484086aa06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ff3d5040ab078abb01761b95e2410c1') in 0.041932 seconds 
+  Import took 0.055598 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/Font/TheEnd BB.otf
+  artifactKey: Guid(b6bdf8e2ad0605644b30be8f84a6e1bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Font/TheEnd BB.otf using Guid(b6bdf8e2ad0605644b30be8f84a6e1bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f51683086424fa2bfd36d908eb032db') in 0.042077 seconds 
+  Import took 0.050810 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000362 seconds.
+  path: Assets/Font/CCSamaritan.ttf
+  artifactKey: Guid(c7e4b09bcb7dc2e4fac789db029a6e32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Font/CCSamaritan.ttf using Guid(c7e4b09bcb7dc2e4fac789db029a6e32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c29f110e6f84089d65428aa8d817bb2') in 0.040369 seconds 
+  Import took 0.048539 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/Font/BottleRocket BB.ttf
+  artifactKey: Guid(8e33cccf288550242bccf629d3f48088) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Font/BottleRocket BB.ttf using Guid(8e33cccf288550242bccf629d3f48088) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd28e59d1da293dadcc7264ad18a1f88') in 0.043971 seconds 
+  Import took 0.059971 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000100 seconds.
+  path: Assets/Font/CCShake.ttf
+  artifactKey: Guid(9c0b1009ebcae5c4c945470c661a81e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Font/CCShake.ttf using Guid(9c0b1009ebcae5c4c945470c661a81e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1f12f4c107d9d86c546d1736dc33c28') in 0.044727 seconds 
+  Import took 0.053318 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000579 seconds.
+  path: Assets/Font/CCSpellcaster.otf
+  artifactKey: Guid(027022dddccc99f43b12da07c32f6aee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Font/CCSpellcaster.otf using Guid(027022dddccc99f43b12da07c32f6aee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58d14d3f8287b21bc222e3b33915dee2') in 0.050527 seconds 
+  Import took 0.059455 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000094 seconds.
+  path: Assets/Font/CCDigitalDelivery-Regular.otf
+  artifactKey: Guid(a8b5c21fdc4bdea4398f0c14729b53d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Font/CCDigitalDelivery-Regular.otf using Guid(a8b5c21fdc4bdea4398f0c14729b53d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f59541baa791d6c7cd555aee56491a1') in 0.040440 seconds 
+  Import took 0.053341 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000566 seconds.
+  path: Assets/Font/CCElephantmenTall.otf
+  artifactKey: Guid(5d9e03548c5334c4eb4fcae651bb471c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Font/CCElephantmenTall.otf using Guid(5d9e03548c5334c4eb4fcae651bb471c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2322ab548df7022f82486881405a5c9') in 0.042485 seconds 
+  Import took 0.050162 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000083 seconds.
+  path: Assets/Font/CloudsplitterLCBB.ttf
+  artifactKey: Guid(c4761efeee464e2479e972d2c5acaf91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Font/CloudsplitterLCBB.ttf using Guid(c4761efeee464e2479e972d2c5acaf91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '304989c038637088e8991e0a8ba51d33') in 0.030504 seconds 
+  Import took 0.040161 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000362 seconds.
+  path: Assets/Font/Tough As Nails BB.ttf
+  artifactKey: Guid(b8ce41277941e8d45bfa08c04f137e1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Font/Tough As Nails BB.ttf using Guid(b8ce41277941e8d45bfa08c04f137e1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79a27771d13c91183aa1ce551801aa40') in 0.032544 seconds 
+  Import took 0.040624 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/Font/CCMarianChurchland.ttf
+  artifactKey: Guid(5ee7137a9bdf11844b7aa8a1f6b80f2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Font/CCMarianChurchland.ttf using Guid(5ee7137a9bdf11844b7aa8a1f6b80f2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f9632359739df33e230a910fe951429') in 0.052394 seconds 
+  Import took 0.075787 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001325 seconds.
+  path: Assets/Font/CCUrbanBarbarianGiant.ttf
+  artifactKey: Guid(26efd6ef4a5b5ca4a94210204fbeb309) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Font/CCUrbanBarbarianGiant.ttf using Guid(26efd6ef4a5b5ca4a94210204fbeb309) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c664cfbc50bca4451805aa384e99f0bd') in 0.045595 seconds 
+  Import took 0.082293 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007127 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.01 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.993 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2993ms)
+		BeginReloadAssembly (290ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (10ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (119ms)
+		EndReloadAssembly (2562ms)
+			LoadAssemblies (241ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (1276ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (148ms)
+			SetupLoadedEditorAssemblies (712ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (11ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (193ms)
+				ProcessInitializeOnLoadAttributes (469ms)
+				ProcessInitializeOnLoadMethodAttributes (27ms)
+				AfterProcessingInitializeOnLoad (10ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (17ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 5.09 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2191 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 99.4 MB.
+System memory in use after: 99.3 MB.
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 2671.
+Total: 5.198200 ms (FindLiveObjects: 0.264600 ms CreateObjectMapping: 0.142600 ms MarkObjects: 4.598300 ms  DeleteObjects: 0.190900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 208.631690 seconds.
+  path: Assets/Scenes/StartMenu.unity
+  artifactKey: Guid(40c66164e818b9646bf9600a6c61ddde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/StartMenu.unity using Guid(40c66164e818b9646bf9600a6c61ddde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72f68532605ccbdf6003fc78d038ad9c') in 0.027620 seconds 
+  Import took 0.036723 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
