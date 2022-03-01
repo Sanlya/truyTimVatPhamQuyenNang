@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 26efd6ef4a5b5ca4a94210204fbeb309
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - 000 UrbanBarbarianGiant TB
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 654324d93c786a54ebb726710f7ce810, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

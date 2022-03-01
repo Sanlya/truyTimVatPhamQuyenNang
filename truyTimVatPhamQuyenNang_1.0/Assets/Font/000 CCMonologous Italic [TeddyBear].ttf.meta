@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: fe8c77d901991df43809c4e360e48aba
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - 000 CCMonologous [TeddyBear]
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0273fbcb3a8f59e4e913d03804f6bc38, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 7e178e7b86caca94da8adb2ca83cf044
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - 000 Samaritan TB
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c7e4b09bcb7dc2e4fac789db029a6e32, type: 3}
+  - {fileID: 12800000, guid: ed728731798852b4f8ce48bcb4db852e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
